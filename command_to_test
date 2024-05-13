@@ -3,5 +3,5 @@ teardown_method 확인 필요
 
 python -m pytest -s  tests/test_circle.py
 
-git switch -c conftest fixture
+git switch -c conftest fixture  # copy
 
